@@ -167,6 +167,11 @@ I will merge all your changes into the main project branch shortly, and you will
             <br />
             <sub><b>Aditya Gupta</b></sub>
         </a>
+        <a href="https://github.com/aliarbaaz">
+            <img src="https://avatars.githubusercontent.com/u/97931849?v=4" width="80;" alt="Anandsg"/>
+            <br />
+            <sub><b>Arbaaz Ali</b></sub>
+        </a>
       </td>
     </tr>
 </table>
