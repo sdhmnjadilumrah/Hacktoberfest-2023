@@ -161,12 +161,14 @@ I will merge all your changes into the main project branch shortly, and you will
             <sub><b>Anand Gadagin</b></sub>
         </a>
       </td>
-         <td align="center">
+      <td align="center">
         <a href="https://github.com/codecommander03">
             <img src="https://avatars.githubusercontent.com/u/114931868?v=4" width="80;" alt="Anandsg"/>
             <br />
             <sub><b>Aditya Gupta</b></sub>
         </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/aliarbaaz">
             <img src="https://avatars.githubusercontent.com/u/97931849?v=4" width="80;" alt="Anandsg"/>
             <br />
